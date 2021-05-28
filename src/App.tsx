@@ -107,7 +107,7 @@ export default function App() {
         <div className="sort">
           Sort by: {sort}
         </div>
-        <h1>My Grocery List</h1>
+        <h1>Games</h1>
           <Grid
             container
             spacing={2}
